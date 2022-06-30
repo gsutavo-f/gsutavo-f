@@ -1,7 +1,7 @@
 ### Hi, I'm Gustavo
 <div align="left">
   <a href="https://github.com/gsutavo-f">
-    <img height="192em" align="center" src="https://github-readme-stats.vercel.app/api?username=gsutavo-f&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="192em" align="center" src="https://github-readme-stats.vercel.app/api?username=gsutavo-f&hide=issues&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/gsutavo-f">
     <img height="192em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsutavo-f&layout=compact&langs_count=7&theme=gotham"/>
